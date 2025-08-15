@@ -36,25 +36,3 @@
 
 <!-- Нижний баннер -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" width="100%"/>
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: HamzaWorks
-          outputs: dist/github-contribution-grid-snake.svg
-      - name: Push snake
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Generate snake"
-          add: "dist/github-contribution-grid-snake.svg"
