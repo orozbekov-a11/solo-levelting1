@@ -39,7 +39,6 @@
 
 ---
 
-## 🎨 Анимации и эффекты
 <p align="center">
   <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.svg" width="0" height="0">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
