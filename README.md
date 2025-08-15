@@ -48,17 +48,9 @@
 
 ---
 
-### 📂 Проекты
-| Проект | Описание | Ссылка |
-|--------|----------|--------|
-| RentCars | Сервис аренды машин | [GitHub](https://github.com/HamzaWorks/rentcars) |
-| TechSphere | Интернет-магазин техники | [GitHub](https://github.com/HamzaWorks/techsphere) |
-| GeoSite | Интерактивная география | [GitHub](https://github.com/HamzaWorks/geo-site) |
 
 ---
 
-### 🐍 Змейка коммитов
-![snake animation](https://github.com/HamzaWorks/HamzaWorks/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
